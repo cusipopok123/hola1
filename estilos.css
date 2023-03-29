@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    background: #c0c0c0;
+}
+
+body{
+    height: 750px;
+    width: 750px;
+    background:orange;
+    margin: auto;
+}
+header{
+    height: 250px;
+    width: 750px;
+    background:orange;
+    margin: auto;
+
+}
+#bamer {
+   width: 500px;
+   height: 224px;
+   background:#000;
+   float: right;
+
+}
+#logo{
+    width: 250px;
+    height: 125px;
+    background: yellow;
+
+}
+
+#buscador{
+    width: 250px;
+    height: 125px;
+    background: rgb(11, 185, 142);
+
+}
+nav{
+    height: 50px;
+    background:rgb(13, 69, 223);
+    
+}
+ main{
+    height: 400px;
+    background:rgb(20, 209, 105);
+    margin: auto;
+
+ }
+ footer{
+    height: 50px;
+    background:rgb(156, 14, 114);
+    
+ }
